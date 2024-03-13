@@ -1,8 +1,7 @@
 const menuLinks = [
-  { name: "HOME", link: "#home" },
-  { name: "ABOUT", link: "#about" },
-  { name: "SKILLS", link: "#skills" },
-  { name: "PROJECTS", link: "#projects" },
+  { name: "PAGE D'ACCEUIL", link: "#home" },
+  { name: "A PROPOS DE MOI", link: "#about" },
+  { name: "QUALIFICATION", link: "#skills" },
   { name: "CONTACT", link: "#contact" },
 ];
 
