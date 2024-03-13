@@ -14,8 +14,6 @@ const About = () => {
       <p className="text-gray-400 text-center font-semibold">Votre électricien de confiance</p>
       <div className="flex flex-col items-center md:gap-6 gap-12 max-w-6xl mx-auto text-gray-300 mt-5">
         <p className="text-justify leading-7 w-11/12 mx-auto">
-          En tant qu'électricien professionnel, nous nous engageons à fournir des services de qualité pour tous vos besoins en électricité. Que ce soit pour l'installation, la maintenance ou la réparation électrique, nous sommes là pour vous offrir des solutions fiables et efficaces.
-          Notre équipe expérimentée est dédiée à assurer la sécurité et le bon fonctionnement de vos installations électriques, tout en respectant les normes en vigueur. Faites confiance à notre expertise pour tous vos projets électriques, grands ou petits.
         </p>
         <ul className="mt-10 flex items-center justify-center md:gap-48 gap-6">
           {Info?.map((content, i) => (
