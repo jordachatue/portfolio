@@ -6,10 +6,10 @@ const Contact = () => {
       <div className="text-4xl font-semibold mt-8 flex justify-center gap-2">
         <h3>CONTACTEZ-NOUS</h3>
       </div>
-      <p className="text-gray-400 text-center font-semibold">Besoin d'aide ? Contactez-nous dès aujourd'hui.</p>
+      <p className="text-gray-400 text-center font-semibold">Besoin daide ? Contactez-nous dès aujourdhui.</p>
       <div className="flex flex-col items-center md:gap-6 gap-12 max-w-6xl mx-auto text-gray-300 mt-5">
         <p className="text-justify leading-7 w-11/12 mx-auto">
-          Pour toute demande d'information, de devis ou de support, n'hésitez pas à nous contacter. Notre équipe est là pour répondre à toutes vos questions et vous fournir l'aide dont vous avez besoin.
+          Pour toute demande dinformation, de devis ou de support, nhésitez pas à nous contacter. Notre équipe est là pour répondre à toutes vos questions et vous fournir laide dont vous avez besoin.
         </p>
         <div className="flex items-center justify-center mt-10">
           <div className="flex items-center gap-4">
